@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="450" viewBox="0 0 900 450">
+  <rect width="900" height="450" fill="#e3dacf"/>
+  <rect x="418" y="158" width="64" height="48" rx="4" fill="none" stroke="#867565" stroke-width="3"/>
+  <circle cx="462" cy="172" r="5" fill="#867565"/>
+  <path d="M420 200 L437 181 L452 196 L463 186 L480 204" fill="none" stroke="#867565" stroke-width="3"/>
+  <text x="450" y="250" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" fill="#615951">Add hometown photo</text>
+</svg>
