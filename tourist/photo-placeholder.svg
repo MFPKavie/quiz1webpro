@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="600" height="400" viewBox="0 0 600 400">
-  <rect width="600" height="400" fill="#e3dacf"/>
-  <rect x="268" y="132" width="64" height="48" rx="4" fill="none" stroke="#867565" stroke-width="3"/>
-  <circle cx="312" cy="146" r="5" fill="#867565"/>
-  <path d="M270 174 L287 155 L302 170 L313 160 L330 178" fill="none" stroke="#867565" stroke-width="3"/>
-  <text x="300" y="230" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" fill="#615951">Add place photo</text>
-</svg>
